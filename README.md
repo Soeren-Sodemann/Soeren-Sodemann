@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Sören Sodemann
+# Hi, ich bin Sören Sodemann
 
 🚀 **Digital Product Designer & angehender Webentwickler**  
 📍 Deutschland  
