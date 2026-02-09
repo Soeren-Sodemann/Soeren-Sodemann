@@ -87,6 +87,6 @@ Mein Anspruch: Produkte bauen, die **nicht wie Übungen**, sondern wie **echte A
 
 ## 📫 Kontakt
 
-- 🌐 **Portfolio:** [Sören Sodemann Portfolio](https://xn--sren-sodemann-imb.framer.website/)
+- 🌐 **Portfolio:** [Sören Sodemann Portfolio](sodemann.dev)
 - 💼 **LinkedIn:** [Sören Sodemann LinkedIn](https://www.linkedin.com/in/soeren-sodemann)
-- 📧 **E-Mail:** soerensodemann7@gmail.com
+- 📧 **E-Mail:** mail@sodemann.dev
