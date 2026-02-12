@@ -89,4 +89,4 @@ Mein Anspruch: Produkte bauen, die **nicht wie Übungen**, sondern wie **echte A
 
 - 🌐 **Portfolio:** [Sören Sodemann Portfolio](https://sodemann.dev)
 - 💼 **LinkedIn:** [Sören Sodemann LinkedIn](https://www.linkedin.com/in/soeren-sodemann)
-- 📧 **E-Mail:** mail@sodemann.dev
+- 📧 **E-Mail:** soeren@sodemann.dev
