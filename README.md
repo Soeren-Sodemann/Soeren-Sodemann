@@ -78,5 +78,5 @@
 ## Kontakt
 
 - 🌐 **Portfolio:** [Sören Sodemann Portfolio](https://sodemann.dev)
-- 💼 **LinkedIn:** [Sören Sodemann LinkedIn](https://www.linkedin.com/in/soeren-sodemann)
+- 💼 **LinkedIn:** [Sören Sodemann LinkedIn](https://www.linkedin.com/in/sören-sodemann)
 - 📧 **E-Mail:** soeren@sodemann.dev
