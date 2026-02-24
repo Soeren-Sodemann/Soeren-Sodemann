@@ -1,20 +1,8 @@
 # Hi, ich bin Sören Sodemann
 
-🚀 **Digital Product Designer & angehender Webentwickler**  
-📍 Deutschland  
-🎓 Aktuell in Weiterbildung Webentwicklung (Syntax Institut)
-
----
-
-## 🧠 Über mich
-
-Ich entwickle moderne, performante Webanwendungen mit Fokus auf **saubere Frontends**, **klare UX** und **reale Use-Cases**.  
-Zurzeit vertiefe ich Webentwicklung und baue produktnahe Frontends.  
-Mein Anspruch: Produkte bauen, die **nicht wie Übungen**, sondern wie **echte Anwendungen** wirken.
-
-- 💡 Design & Development ganzheitlich gedacht  
-- 🧩 Strukturierter, wartbarer Code  
-- 🎯 Fokus auf Portfolio- & Recruiter-Tauglichkeit  
+ **Digital Product Designer & angehender Webentwickler**  
+ - Deutschland  
+ - Aktuell in Weiterbildung Webentwicklung (Syntax Institut)
 
 ---
 
@@ -22,6 +10,8 @@ Mein Anspruch: Produkte bauen, die **nicht wie Übungen**, sondern wie **echte A
 
 **Frontend**
 - HTML5, CSS3, JavaScript (ES6+)
+- Tailwind
+- TypeScript
 - React (Vite)
 - Responsive Design
 
@@ -76,7 +66,7 @@ Mein Anspruch: Produkte bauen, die **nicht wie Übungen**, sondern wie **echte A
 
 ---
 
-## 🌱 Aktuell vertiefe ich
+## Aktuell vertiefe ich
 
 - React Best Practices
 - State Management
@@ -85,7 +75,7 @@ Mein Anspruch: Produkte bauen, die **nicht wie Übungen**, sondern wie **echte A
 
 ---
 
-## 📫 Kontakt
+## Kontakt
 
 - 🌐 **Portfolio:** [Sören Sodemann Portfolio](https://sodemann.dev)
 - 💼 **LinkedIn:** [Sören Sodemann LinkedIn](https://www.linkedin.com/in/soeren-sodemann)
