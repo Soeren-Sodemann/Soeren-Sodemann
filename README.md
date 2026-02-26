@@ -1,6 +1,4 @@
-# Hi, ich bin Sören Sodemann
-
- **Digital Product Designer & Web Developer**  
+ # Digital Product Designer & Web Developer  
  - Deutschland 
 
 ---
