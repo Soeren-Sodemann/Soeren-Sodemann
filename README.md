@@ -1,8 +1,7 @@
 # Hi, ich bin Sören Sodemann
 
- **Digital Product Designer & angehender Webentwickler**  
- - Deutschland  
- - Aktuell in Weiterbildung Webentwicklung (Syntax Institut)
+ **Digital Product Designer & Web Developer**  
+ - Deutschland 
 
 ---
 
@@ -63,15 +62,6 @@
 💻 [GitHub Repository](https://github.com/Soeren-Sodemann/Laenderanalayse-Dashboard)
 
 *(Weitere Projekte folgen)*
-
----
-
-## Aktuell vertiefe ich
-
-- React Best Practices
-- State Management
-- API-basierte Anwendungen
-- Skalierbare Projektstrukturen
 
 ---
 
