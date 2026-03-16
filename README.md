@@ -24,6 +24,7 @@
 - Fetch
 - Async/Await
 - JSON
+- Firebase
 
 ---
 
